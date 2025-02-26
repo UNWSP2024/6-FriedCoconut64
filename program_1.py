@@ -7,7 +7,6 @@ def randDice():
     roll_2 = random.randint(1,6)
     return roll_1 + roll_2
 
-#########
 def main():
     Dice_Total = 0
     Total = 0
